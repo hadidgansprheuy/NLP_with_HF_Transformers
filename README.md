@@ -26,7 +26,7 @@ Result : ```json
 
 **Analysis:** The sentiment analysis classifier successfully interprets the chaotic tone of the famous internet copypasta. Words like "crazy", "locked", and "rats" heavily influence the model to categorize the text as strongly negative with near-perfect confidence.
 
-### 2. Example 2 - Topic Classification
+## 2. Example 2 - Topic Classification
 
 ```python
 # TODO :
